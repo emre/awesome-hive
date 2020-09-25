@@ -40,6 +40,7 @@ Hive node implementation.
 
 ### Specific
 - [STEMsocial](https://stem.openhive.network) - Curation project dedicated to improving the quality of STEM (science, technology, engineering & mathematics) content on Hive.
+- [dPoll](https://dpoll.io) - A poll/vote protocol on the top HIVE blockchain. You can create polls, ask for feedback, vote for other polls. All actions are registered in the blockchain as first class objects.
 
 ### Customizable
 - [DBlog](https://dblog.org) - Simple but powerfull website templates for your own blog.
@@ -80,6 +81,7 @@ Hive node implementation.
 - Python
   - [hive-python](https://gitlab.syncad.com/hive/hive-python) - Python (3) library for the Hive Blockchain.
   - [beem](https://github.com/holgern/beem) - A comprehensive Python library to interact with the Hive blockchain.
+  - [lighthive](https://github.com/emre/lighthive) - A light python client to interact with the Hive blockchain
 - Ruby
   - [hive-ruby](https://gitlab.syncad.com/hive/hive-ruby) - Ruby library for the Hive blockchain.
 
